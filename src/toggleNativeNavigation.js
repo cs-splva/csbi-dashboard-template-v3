@@ -1,5 +1,3 @@
-var $ = window.CustomJQuery
-
 function showPageNavigation(show) {
 	var divs = document.getElementsByClassName("sfx_navigation-bar_210");
 	var displayValue = show ? "" : "none";
