@@ -1,5 +1,3 @@
-//var $ = window.CustomJQuery
-
 var elements = Array.from(document.getElementsByClassName("sfx_page-tab_1314"));
 var navBar = document.getElementById('js-nav-bar');
 
